@@ -1,7 +1,7 @@
 {
-  "name": "wabot-aq",
-  "version": "1.6.0",
-  "description": "Customizable WhatsApp Bot",
+  "name": "AleXx-Bot",
+  "version": "1.0",
+  "description": "AleXxBotPrivate",
   "depecrated": false,
   "main": "index.js",
   "directories": {
@@ -19,16 +19,16 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/Nurutomo/wabot-aq",
+  "homepage": "https://wa.me/18183333333",
   "author": {
-    "name": "Nurutomo"
+    "name": "AleXx"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nurutomo/wabot-aq.git"
+    "url": "git+https://github.com/AleXx/wabot-aq.git"
   },
   "bugs": {
-    "url": "https://github.com/Nurutomo/wabot-aq/issues"
+    "url": "https://github.com/AleXx/wabot-aq/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
